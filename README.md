@@ -3,7 +3,8 @@
 Sharing knowledge through tech education and community-driven initiatives. This repository is a growing archive of my volunteer efforts from teaching coding to mentoring, hosting workshops, and sharing real-world insights to help others grow in their tech journey.
 
 ---
-
+## Cohort 2 PEC GEN AI
+### Lecture on Thrusday 17 April Week 1 [Chatgpt Model Process Overview | Stemming | Lemmatization](https://www.youtube.com/live/fr_gCCFTvGM?si=fbWpje70vHkGFlA1)
 ## 📹 Upcoming Recordings
 
 Stay tuned! I’ll be uploading my teaching sessions, webinars, and workshops right here.
