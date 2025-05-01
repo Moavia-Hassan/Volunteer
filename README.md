@@ -22,16 +22,6 @@ Empower students from all backgrounds by making quality tech education accessibl
 
 ---
 
-## ✨ What's Coming
-
-In the coming weeks, this repository will include:
-- 📚 Recorded lectures & workshops
-- 🛠 Hands-on coding sessions
-- 📘 Session outlines & slides (where applicable)
-- 💡 Tips for beginners & career switchers
-
----
-
 ## 🤝 Let's Connect
 
 Got suggestions or want to collaborate on a volunteer-based tech initiative? Feel free to reach out or connect via [LinkedIn](https://www.linkedin.com/)!
