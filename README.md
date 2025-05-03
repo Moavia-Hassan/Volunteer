@@ -17,7 +17,8 @@ Empower students from all backgrounds by making quality tech education accessibl
 
 ## 🤝 Let's Connect
 
-Got suggestions or want to collaborate on a volunteer-based tech initiative? Feel free to reach out or connect via [LinkedIn](www.linkedin.com/moaviahassan)
+Got suggestions or want to collaborate on a volunteer-based tech initiative? Feel free to reach out or connect via [LinkedIn](https://www.linkedin.com/in/moaviahassan)
+)
 
 ---
 
