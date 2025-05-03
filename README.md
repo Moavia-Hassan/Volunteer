@@ -5,16 +5,9 @@ Sharing knowledge through tech education and community-driven initiatives. This 
 ---
 ## Cohort 2 PEC GEN AI
 ### Lecture on Thrusday 17 April Week 1 [Chatgpt Model Process Overview | Stemming | Lemmatization](https://www.youtube.com/live/fr_gCCFTvGM?si=fbWpje70vHkGFlA1)
-## 📹 Upcoming Recordings
+## DSA 10 PM Session at ICodeGuru:
+[Week 2 Day 3 Recording Reverse Linked List](https://www.facebook.com/iCodeguru/videos/9698182506927309/)
 
-Stay tuned! I’ll be uploading my teaching sessions, webinars, and workshops right here.
-
-- [ ] Week 1: Introduction to LeetCode Problem Solving
-- [ ] Week 2: Python Fundamentals for Beginners
-- [ ] Week 3: Live Debugging and Code Walkthroughs
-- [ ] Special Session: Career Guidance in Tech for Students
-
----
 
 ## 🎯 Vision
 
