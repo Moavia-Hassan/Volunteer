@@ -10,6 +10,8 @@ Sharing knowledge through tech education and community-driven initiatives. This 
 
 ## Workshops
 
+### Hashing in Data Structures (30 May 2025)
+
 ## 🎯 Vision
 
 Empower students from all backgrounds by making quality tech education accessible, practical, and community-driven. Every recording here is made with the intent to uplift and inspire.
